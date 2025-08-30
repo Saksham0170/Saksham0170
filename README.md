@@ -9,38 +9,3 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamgarg782) 
 
-
-
-# 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Saksham0170&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-      <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Saksham0170&theme=dark&hide_border=false" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0170&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-    <td>
-      <img align="center" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-    </td>
-  </tr>
-</table>
-
-# 📈 GitHub Contributions:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saksham0170/Saksham0170/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saksham0170/Saksham0170/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Saksham0170/count.svg?"  />
-</div>
